@@ -1,8 +1,9 @@
 # CMSC6950_Project
 Course project for CMSC6950 Spring 2021
 
-Software Package: [eddy!] (https://github.com/richteague/eddy)
-eddy implements several methods for extracting kinematical information from astronomical observations of Doppler shifted molecular line emission in protoplanetary disks [1]. The package further implements methods to fit a first moment map that is a frequently used analysis in the study of protoplanetary disks, typically used to constrain the mass of the central star and extract geometrical properties.
+Software Package: eddy https://github.com/richteague/eddy
+
+eddy implements several methods for extracting kinematical information from astronomical observations of Doppler shifted molecular line emission in protoplanetary disks. The package further implements methods to fit a first moment map that is a frequently used analysis in the study of protoplanetary disks, typically used to constrain the mass of the central star and extract geometrical properties.
 
 **Khalid Ibne Hasan**
 
