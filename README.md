@@ -21,3 +21,17 @@ pip install celerite
 ```
 pip install astropy
 ```
+
+## Reproducing Workflow
+If you want to reproduce the workflow, download the repository, install the packages inside conda environment and run the following command to generate all the necessary files:
+```
+make
+```
+To delete all other files except the Python scripts:
+``` 
+make clean
+```
+Delete all the datasets and pdf
+``` 
+make deepclean
+```
